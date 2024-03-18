@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "963075655397",
+    "project_id": "wheretogo-bdcfb",
+    "storage_bucket": "wheretogo-bdcfb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963075655397:android:b0712ea5877ddc91ce360c",
+        "android_client_info": {
+          "package_name": "com.example.recipeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyBOmi1FFFnCl6h-EaN6bRpWt8MWWZRjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
